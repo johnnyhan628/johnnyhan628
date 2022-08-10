@@ -1,29 +1,34 @@
-<div "style = text-align : center">
-  <div>
-    <h3>Johnny Han</h3>
-  </div>
-  <div>
-    Hello, I'm johnny. Thanks for comming my place.
-  </div>
-  <div>
-    My goal is giving good influence to other developers.
-  </div>
-  <div>
-    Having fun whenever.
-  </div>
-<div>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-<div>
-    <h3>Tech Stack</h3>
-</div>
-<div>
-<!--태크 스택 들어갈 자리-->
-Java, JavaScript, Vue.js, Git, SpringBoot
+<div align = "center">
+<br/>
+<h3>😀
+Johnny Han</h3><br/>
+Hello, I'm johnny. Thanks for comming my place.<br/>
+My goal is giving good influence to other developers.<br/>
+Having fun whenever.
+
+
+<br/><br/>
+ 
+<h3>💻 Tech Stack 💻</h3>
+ 
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+<br>
+<br>
+<img src="https://img.shields.io/badge/Java-3D7EC2?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-2ECD46?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
+
 </div>
 
-<div>
-    <h3>Contact Me</h3>
-    <p>johnnyhan628@gmail.com</p>
-    <p>https://johnny-developer.tistory.com/</p>
-</div>
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+
+
+
 
