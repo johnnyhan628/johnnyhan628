@@ -23,7 +23,7 @@ Java, JavaScript, Vue.js, Git, SpringBoot
 
 <div>
     <h3>Contact Me</h3>
-    <a>johnnyhan628@gmail.com</a>
-    <a>https://johnny-developer.tistory.com/</a>
+    <p>johnnyhan628@gmail.com</p>
+    <p>https://johnny-developer.tistory.com/</p>
 </div>
 
