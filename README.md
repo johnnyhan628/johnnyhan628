@@ -28,7 +28,7 @@ Having fun whenever.
 <h3>📬Contact Me</h3><br/>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:johnnyhan628@gmail.com)
-[![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Tistory&link=https://johnny-developer.tistory.com)](https://blog.naver.com/chajuhui123)
+[![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Tistory&link=https://johnny-developer.tistory.com)](https://johnny-developer.tistory.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 </div>
